@@ -9,10 +9,9 @@ public class testdemo {
 		// TODO Auto-generated method stub
 		
 		System.out.println("asdNeeraj thank for being my roomates");
-<<<<<<< HEAD
-		System.out.println("Hury");
-=======
->>>>>>> branch 'master' of git@github.com:Mukesh-50/JenkinsMavenDemoGithub.git
+
+		System.out.println("77");
+		System.out.println("äa");
 
 	}
 
